@@ -51,3 +51,5 @@ phrase.
 7. Initialize the submodules - <code>git submodule init</code>
 8. Update the submodules - <code>git submodule update</code>
 9. Build -> Rebuild Project
+
+Open Terminal window in AndroidStudio and run gradlew build
